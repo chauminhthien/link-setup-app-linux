@@ -1,0 +1,3 @@
+sudo dpkg -i <tenfile>.deb
+
+sudo apt-get install -f
