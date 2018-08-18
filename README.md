@@ -22,8 +22,8 @@
   http://echip.pro/4rum/threads/lap-trinh-c-bang-visual-studio-code-tren-ubuntu.145.html
 # chrome: 
   http://tuong.me/huong-dan-cai-dat-google-chrome-tren-ubuntu-16-04-16-10/
-  
- # setup-off
+# fix Could not open /dev/vmmon VMware
+  https://stackoverflow.com/questions/49205162/install-vmware-could-not-open-dev-vmmon-no-such-file-or-directory-please-ma
+# setup-off
   sudo dpkg -i <tenfile>.deb
-
   sudo apt-get install -f
