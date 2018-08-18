@@ -26,4 +26,5 @@
   https://stackoverflow.com/questions/49205162/install-vmware-could-not-open-dev-vmmon-no-such-file-or-directory-please-ma
 # setup-off
   sudo dpkg -i <tenfile>.deb
+  
   sudo apt-get install -f
