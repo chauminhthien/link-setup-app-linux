@@ -28,3 +28,15 @@
   sudo dpkg -i <tenfile>.deb
   
   sudo apt-get install -f
+  
+  # setup apache 2
+  https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-ubuntu-16-04
+  
+  # xoa git
+  https://askubuntu.com/questions/824696/is-it-fine-to-remove-the-opt-gitlab-directory-manually-after-removing-the-gitl
+  
+  # install php mysql
+  https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-16-04
+  
+  # install phpmyadmin
+  https://www.hostingadvice.com/how-to/install-phpmyadmin-on-ubuntu/
