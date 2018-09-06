@@ -40,3 +40,6 @@
   
   # install phpmyadmin
   https://www.hostingadvice.com/how-to/install-phpmyadmin-on-ubuntu/
+  
+  # tao sub domain ubuntu
+  https://www.trungnotes.com/lap-trinh/124-them-domain-hoac-subdomain-tren-vps-ubuntu-debian-hay-centos
