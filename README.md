@@ -43,3 +43,6 @@
   
   # tao sub domain ubuntu
   https://www.trungnotes.com/lap-trinh/124-them-domain-hoac-subdomain-tren-vps-ubuntu-debian-hay-centos
+  
+  # cách cài dat https
+  https://vinadata.vn/bao-mat-apache-lets-encrypt-ubuntu-16-04/
