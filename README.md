@@ -46,3 +46,9 @@
   
   # cách cài dat https
   https://vinadata.vn/bao-mat-apache-lets-encrypt-ubuntu-16-04/
+  
+  # cách chay node port 80
+    https://seeq12.atlassian.net/wiki/spaces/KB/pages/116188360/Apache+Reverse+Proxy+for+HTTPS+on+Ubuntu
+    https://www.digitalocean.com/community/tutorials/how-to-use-apache-as-a-reverse-proxy-with-mod_proxy-on-ubuntu-16-04
+ # cách cái gitea
+  https://gist.github.com/appleboy/36313a525fbef673f8aefadb9c0f8247
