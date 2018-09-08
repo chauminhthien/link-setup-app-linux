@@ -55,3 +55,6 @@
   
  #run all permistion
   exp: sudo npm install --save node-sass-chokidar --unsafe-perm=true --allow-root
+  
+ # enable auth mongodb
+  https://stackoverflow.com/questions/4881208/how-to-secure-mongodb-with-username-and-password
