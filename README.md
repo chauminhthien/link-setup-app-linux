@@ -52,3 +52,6 @@
     https://www.digitalocean.com/community/tutorials/how-to-use-apache-as-a-reverse-proxy-with-mod_proxy-on-ubuntu-16-04
  # cách cái gitea
   https://gist.github.com/appleboy/36313a525fbef673f8aefadb9c0f8247
+  
+ #run all permistion
+  exp: sudo npm install --save node-sass-chokidar --unsafe-perm=true --allow-root
