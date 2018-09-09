@@ -58,3 +58,5 @@
   
  # enable auth mongodb
   https://stackoverflow.com/questions/4881208/how-to-secure-mongodb-with-username-and-password
+ # tạo mail free với yarn dex
+ https://canhme.com/kinh-nghiem/tao-email-ten-mien-rieng-voi-yandex/
