@@ -64,5 +64,5 @@
  # cấu hình apache chay 1 file index.html
       DirectoryIndex index.html
       #RewriteRule ^*$  http://www.addomain.com/index.html [R=301,NC,L]
-      AliasMatch ^(.*)$ /var/www/project/fintechvn/insurFrontEnd/build/index.html
+      AliasMatch ^(?:(?!\.).)*$ /var/www/project/fintechvn/insurFrontEnd/build/index.html
 
