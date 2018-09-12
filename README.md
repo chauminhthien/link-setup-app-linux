@@ -65,4 +65,24 @@
       DirectoryIndex index.html
       #RewriteRule ^*$  http://www.addomain.com/index.html [R=301,NC,L]
       AliasMatch ^(?:(?!\.).)*$ /var/www/project/fintechvn/insurFrontEnd/build/index.html
+      
+ # fix authen mogo in loopback
+  "mongodb": {
+    "host": "myHost",
+    "port": 27017,
+    "database": "myDB",
+    "password": "myPass",
+    "name": "mongodb",
+    "user": "myUser",
+    "connector": "mongodb",
+    "authSource": "admin",
+    "useNewUrlParser": true
+  }
+  
+  # fix rockmongo connect mongo authen
+    cd rockmongo-php7
+    cd app/models
+    sudo vi MDb.php // line 35
+    // remove true in function 
+        $colls = $db->listCollections();
 
