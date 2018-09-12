@@ -67,7 +67,8 @@
       AliasMatch ^(?:(?!\.).)*$ /var/www/project/fintechvn/insurFrontEnd/build/index.html
       
  # fix authen mogo in loopback
-  "mongodb": {
+ ```json
+ "mongodb": {
     "host": "myHost",
     "port": 27017,
     "database": "myDB",
@@ -78,6 +79,7 @@
     "authSource": "admin",
     "useNewUrlParser": true
   }
+  ```
   
   # fix rockmongo connect mongo authen
     cd rockmongo-php7
