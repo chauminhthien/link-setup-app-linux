@@ -82,6 +82,7 @@
   ```
   
   # fix rockmongo connect mongo authen
+    ## install https://medium.com/@RichieOmoka/running-rockmongo-on-php7-b4b39a180840
     cd rockmongo-php7
     cd app/models
     sudo vi MDb.php // line 35
