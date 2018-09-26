@@ -89,4 +89,8 @@
     sudo vi MDb.php // line 35
     // remove true in function 
         $colls = $db->listCollections();
-
+        
+   # Hitting arrow keys adds characters in vi editor
+    https://askubuntu.com/questions/353911/hitting-arrow-keys-adds-characters-in-vi-editor
+  # lỗi 404 sau khi cài phpmyadmin chạy lệnh
+    sudo ln -s /usr/share/phpmyadmin /var/www/html/phpmyadmin
