@@ -46,6 +46,7 @@
   
   # cách cài dat https
   https://vinadata.vn/bao-mat-apache-lets-encrypt-ubuntu-16-04/
+  https://vn.cystack.net/news/bao-mat-apache-lets-encrypt-ubuntu-16-04/
   
   # cách chay node port 80
     https://seeq12.atlassian.net/wiki/spaces/KB/pages/116188360/Apache+Reverse+Proxy+for+HTTPS+on+Ubuntu
